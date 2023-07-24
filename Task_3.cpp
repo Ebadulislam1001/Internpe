@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     srand((unsigned int)time(NULL));
-    int number = (rand() % 128) + 1;
+    int number = (rand() % 100) + 1;
     int guess = 0;
     do
     {
