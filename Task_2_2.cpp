@@ -1,12 +1,13 @@
 // 2.2 Write a  program that takes three numbers as input to calculate and print the average of the numbers.
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
+// Hello I've hacked your computer 
 int main()
 {
     int num1, num2, num3;
-    cout << "\nEnter the 3 numbers\n";
+    cout << "\nEnter the 3 numbers\n"; 
     cout << "num1 = ";
     cin >> num1;
     cout << "num2 = ";
